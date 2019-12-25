@@ -1,4 +1,4 @@
 generated/
-logs/
+/logs
 backup/
 cache/
