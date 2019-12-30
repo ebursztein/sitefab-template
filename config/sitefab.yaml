@@ -4,7 +4,7 @@ logo:
     width: 60
     height: 60
 
-url: "http://localhost:8080" #site url
+url: "http://localhost:5500" # site url - localhost:5500 > VSC liveserver
 
 threads: 4 # how many thread to use
 
