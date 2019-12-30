@@ -1,0 +1,6 @@
+enable: true
+excluded_terms:
+- post
+- top
+num_suggestions: 1000
+output_path: static/js/  # relative to output directory

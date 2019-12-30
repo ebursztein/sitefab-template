@@ -1,0 +1,2 @@
+enable: true
+template: templates/sitemap.xml  # relative to site base dir.
