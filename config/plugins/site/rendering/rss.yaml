@@ -1,5 +1,5 @@
 enable: true
-template: templates/rss.xml  # path relative to the site base dir.
+template: rss.xml  # path relative to the site template dir
 accent_color: 03A9F4
 analytics_code: UA-xxYYxx-zz
 banner: /static/images/banner/fuller-house-exposing-high-end-poker-cheating-devices.jpg
@@ -7,10 +7,10 @@ icon: /static/images/favicon/favicon-160x160.png
 layout_type: card
 logo_svg: /static/svg/
 num_posts: 10
-parser_config:
+parser:
   code_display_line_num: true
   code_highlighting_theme: monokai
   template_dir: config/templates/rss/  # path relative to site base dir
-subtitle: Blog about web technologies and games with a focus performance and security.
-title: Elie on Internet Security and Performance
+subtitle: My blog description.
+title: Description here.
 url: rss
