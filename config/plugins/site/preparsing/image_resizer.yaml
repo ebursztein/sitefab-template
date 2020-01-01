@@ -1,4 +1,4 @@
 enable: true
-input_dir: generated/static/images/
 max_width: 960
-quality: 90
+jpeg_quality: 90
+webp_quality: 90
