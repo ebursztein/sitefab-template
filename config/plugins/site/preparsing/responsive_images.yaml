@@ -1,8 +1,6 @@
 enable: true
 additional_formats: [.webp]
-cache_min_imsage_width: 400
-input_dir: generated/static/images/
+cache_min_image_width: 400
 multithreading: false
-output_dir: generated/static/images_resized/
 template_file: config/generator_templates/responsive_images/img.html
 thumbnail_size: [300, 600, 900, 1200]
