@@ -3,4 +3,4 @@ generated/
 backup/
 cache/
 *.lnk
-plugins/
+plugins
