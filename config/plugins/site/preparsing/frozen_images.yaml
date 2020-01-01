@@ -1,3 +1,1 @@
 enable: true
-input_dir: generated/static/images/
-output_dir: generated/static/images_frozen/
