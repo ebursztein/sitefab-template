@@ -27,17 +27,16 @@ collections:
 
 ### Plugins configuration ###
 plugins:
-  dir:
-    - "plugins/"
-    # - "your_custom_plugin_dir"
+    # this is the path to the sitefab-plugins repo/code
+    dir:
+        - "plugins/"
+        # - "your_custom_plugin_dir"
 
-  # configs are tied to your site, so you can use a single dir for stock and
-  # custom plugin or keep them separated if you prefers
-  config_dir:
-    - "config/plugins/"
-    # - "you_custom_plugin_conf_dir"
-
-_configuration_file: "config/plugins.yaml" # relative to root dir
+    # configs are tied to your site, so you can use a single dir for stock and
+    # custom plugin or keep them separated if you prefers
+    config_dir:
+        - "config/plugins/"
+        # - "you_custom_plugin_conf_dir"
 
 ### Linter configuration ###
 linter:
