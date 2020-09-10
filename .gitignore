@@ -4,3 +4,4 @@ backup/
 cache/
 *.lnk
 plugins
+.history/
