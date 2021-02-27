@@ -3,4 +3,4 @@ additional_formats: [.webp]
 cache_min_image_width: 400
 multithreading: false
 template_file: config/generator_templates/responsive_images/img.html
-thumbnail_size: [300, 600, 900, 1200]
+thumbnail_size: [128, 300, 600, 900, 1200]

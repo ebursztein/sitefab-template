@@ -8,7 +8,6 @@ microdata_type: BlogPosting
 hidden: false
 
 permanent_url: blog/test
-banner: /static/images/banner/test.jpg
 creation_date: 14 Jan 2017 04:24
 update_date: 14 Jan 2017 04:24
 
@@ -18,7 +17,7 @@ tags:
 
 seo_keywords:
 
-authors: 
+authors:
  - Elie, Bursztein
 
 abstract: "This blog post is meant to test Sitefab"

@@ -1,3 +1,4 @@
 enable: true
 num_terms_per_post: 30
-output_path: static/js/
+output_path_js: static/js/
+output_path_json: static/js/
